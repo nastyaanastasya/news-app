@@ -1,4 +1,4 @@
-package com.nastyaanastasya.newsapp.ui.theme
+package com.nastyaanastasya.newsapp.core.ui.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
